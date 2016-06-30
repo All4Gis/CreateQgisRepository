@@ -1,4 +1,4 @@
-# Ejemplo para crear tu propio repositorio para Qgis.
+# Example for creating your own Qgis repository
 
 To have your own Qgis repository, you only have to put this example in your server.
  
