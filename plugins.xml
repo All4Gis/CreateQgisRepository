@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="plugins.xsl" ?>
+<plugins>
+  <pyqgis_plugin name="Customize ToolBars Local" version="0.8">
+		<description>Create customs Toolbars for Qgis.</description>
+		<version>0.8</version>
+		<homepage>http://hub.qgis.org/projects/rt6avc2ia</homepage>
+		<uploaded_by>All4Gis</uploaded_by>
+		<qgis_minimum_version>2.0</qgis_minimum_version>
+		<file_name>CustomToolBar.zip</file_name>
+		<author_name>Francisco Raga</author_name>
+		<download_url>http://localhost:8080/examples/CreateQgisRepository/Download/CustomToolBar.zip</download_url>
+		<experimental>False</experimental>
+		<deprecated>False</deprecated>
+		<tracker>http://hub.qgis.org/projects/rt6avc2ia/issues</tracker>
+		<repository>https://github.com/All4Gis/CustomToolBar</repository>
+  </pyqgis_plugin>
+  <pyqgis_plugin name="Instagram2qgis Local" version="0.4">
+		<description>Instagram2qgis</description>
+		<version>2.0</version>
+		<homepage>http://hub.qgis.org/projects/instagram2gis</homepage>
+		<uploaded_by>All4Gis</uploaded_by>
+		<qgis_minimum_version>2.0</qgis_minimum_version>
+		<file_name>instagram2qgis.zip</file_name>
+		<author_name>Francisco Raga</author_name>
+		<download_url>http://localhost:8080/examples/CreateQgisRepository/Download/instagram2qgis.zip</download_url>
+		<experimental>False</experimental>
+		<deprecated>False</deprecated>
+		<tracker>http://hub.qgis.org/projects/instagram2gis/issues</tracker>
+		<repository>https://github.com/All4Gis/instagram2qgis</repository>
+  </pyqgis_plugin>
+</plugins>
